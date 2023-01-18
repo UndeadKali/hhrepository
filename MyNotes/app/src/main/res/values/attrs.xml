@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="search_text_color" format="reference" />
+    <attr name="add_text_color" format="reference" />
+    <attr name="toolbar_fragment_note_content_color" format="reference" />
+
+</resources>

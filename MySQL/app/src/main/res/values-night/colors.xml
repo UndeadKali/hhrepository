@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorAttr">#b9fbc0</color>
+    <color name="buttonColorAttr">#8e9aaf</color>
+    <color name="dividerStart">#f72585</color>
+    <color name="dividerEnd">#480ca8</color>
+    <color name="ic_launcher_background">#e5383b</color>
+</resources>
